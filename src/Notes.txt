@@ -1,0 +1,5 @@
+Mouse Events:
+- Angular provides a set of events that are used to handle various functions.
+- For every interaction we have to create a function to handle it it is called event handler.
+- All the javascript events are supported in angular by doing event binding machanism.
+- Examples: Mouse, Keyboard, Load, change, focus, blur etc.
